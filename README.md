@@ -45,8 +45,6 @@ For quick implementation, Java provides:
 String reversed = new StringBuilder(input).reverse().toString();
 ```
 
-This is concise and optimized internally, but in interviews, implementing the two-pointer approach demonstrates stronger fundamentals.
-
 ## How to Run
 ### Prerequisites
 - Java 17+
